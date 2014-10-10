@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingData>
+  <Sensors>
+    <Sensor
+      Type="FeatureBasedSensorSource"
+      Subtype="Fast">
+      <SensorID>FeatureTracking1</SensorID>
+      <Parameters />
+      <SensorCOS>
+        <SensorCosID>Patch_metaioTracker_Assets/StreamingAssets/target.jpg</SensorCosID>
+        <Parameters>
+          <ReferenceImage>target.jpg</ReferenceImage>
+          <SimilarityThreshold>0.7</SimilarityThreshold>
+        </Parameters>
+      </SensorCOS>
+    </Sensor>
+  </Sensors>
+</TrackingData>
